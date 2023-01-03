@@ -1,0 +1,26 @@
+ [
+    
+    {  "id": 1, "articulo": "Rock Internacional", "nombre":"Pink Floyd", "precio": 1600, "imagen": "./shop/Internacional/01.jpg" },
+    {  "id": 2, "articulo": "Rock Internacional", "nombre":"The Weekend", "precio": 1600, "imagen": "./shop/Internacional/02.jpg" },
+    {  "id": 3, "articulo": "Rock Internacional", "nombre":"Madona", "precio": 1550, "imagen": "./shop/Internacional/03.jpg" },
+    {  "id": 4, "articulo": "Rock Internacional", "nombre":"The Rolling Stones", "precio": 1600, "imagen": "./shop/Internacional/04.jpg" },
+   
+    
+    {  "id": 7,  "articulo": "Rock Nacional", "nombre":"ALmendra", "precio": 900, "imagen": "./shop/Nacional/01.jpg" },
+    {  "id": 8,  "articulo": "Rock Nacional", "nombre":"Los Piojos", "precio": 1600, "imagen": "./shop/Nacional/02.jpg" },
+    {  "id": 9,  "articulo": "Rock Nacional", "nombre":"Los Pericos", "precio": 2000, "imagen": "./shop/Nacional/03.jpg" },
+    {  "id": 10, "articulo": "Rock Nacional", "nombre":"Andres Calamaro", "precio": 1650, "imagen": "./shop/Nacional/04.jpg" },
+    
+    {  "id": 13, "articulo": "Hip Hop", "nombre":"The Best Hip Hop", "precio": 1600, "imagen": "./shop/Hip Hop/01.jpg" },
+    {  "id": 14, "articulo": "Hip Hop", "nombre":"This is Hip Hop", "precio": 1600, "imagen": "./shop/Hip Hop/02.jpg" },
+    {  "id": 15, "articulo": "Hip Hop", "nombre":"Boom Rap", "precio": 1550, "imagen": "./shop/Hip Hop/03.jpg" },
+    {  "id": 16, "articulo": "Hip Hop", "nombre":"Travis Scott", "precio": 1600, "imagen": "./shop/Hip Hop/04.png" },
+    
+    
+    {  "id": 19, "articulo": "Punk", "nombre":"Ramones", "precio": 1600, "imagen": "./shop/Punk/01.jpg" },
+    {  "id": 20, "articulo": "Punk", "nombre":"Sex Pistols", "precio": 1600, "imagen": "./shop/Punk/02.jpg" },
+    {  "id": 21, "articulo": "Punk", "nombre":"The Saints", "precio": 1550, "imagen": "./shop/Punk/03.jpg" },
+    {  "id": 22, "articulo": "Punk", "nombre":"The Police", "precio": 1855, "imagen": "./shop/Punk/04.jpg" }
+   
+   
+]
